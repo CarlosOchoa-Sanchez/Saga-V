@@ -21,6 +21,8 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+
+
 /* ========== PART 1 THE CODE BELOW WAS ADDED ========== ========== THE CODE BELOW WAS ADDED ========== */
 
 /*hero image*/
@@ -1679,4 +1681,16 @@ hr {
   align-self: flex-end;
   padding-right: 1rem;
   padding-top: 1rem;
+}
+
+
+html, body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-width: none !important;
+  margin: 0 !important;
 }
